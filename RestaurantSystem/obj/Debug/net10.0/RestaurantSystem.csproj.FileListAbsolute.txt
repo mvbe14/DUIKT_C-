@@ -1,0 +1,15 @@
+C:\oop_css\lab4\RestaurantSystem\bin\Debug\net10.0\RestaurantSystem.exe
+C:\oop_css\lab4\RestaurantSystem\bin\Debug\net10.0\RestaurantSystem.deps.json
+C:\oop_css\lab4\RestaurantSystem\bin\Debug\net10.0\RestaurantSystem.runtimeconfig.json
+C:\oop_css\lab4\RestaurantSystem\bin\Debug\net10.0\RestaurantSystem.dll
+C:\oop_css\lab4\RestaurantSystem\bin\Debug\net10.0\RestaurantSystem.pdb
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.AssemblyInfoInputs.cache
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.AssemblyInfo.cs
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.sourcelink.json
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.dll
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\refint\RestaurantSystem.dll
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.pdb
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\RestaurantSystem.genruntimeconfig.cache
+C:\oop_css\lab4\RestaurantSystem\obj\Debug\net10.0\ref\RestaurantSystem.dll
