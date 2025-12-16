@@ -1,0 +1,44 @@
+# ===== .NET build =====
+bin/
+obj/
+**/bin/
+**/obj/
+
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== VS Code =====
+.vscode/
+*.code-workspace
+
+# ===== JetBrains Rider / IntelliJ =====
+.idea/
+*.sln.iml
+
+# ===== NuGet =====
+packages/
+*.nupkg
+*.snupkg
+
+# ===== Logs / temp =====
+*.log
+*.tmp
+
+# ===== Windows files =====
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===== Test results / coverage =====
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# ===== Publish output =====
+publish/
